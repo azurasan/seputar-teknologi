@@ -1,0 +1,40 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Seputar Teknologi"
+theme = "mainroad"
+
+[Author]
+    name = "Ananda Zulvansyah Putra"
+    bio = "mahasiswa jurusan Teknik Informatika"
+    avatar = "img/avatar.png"
+
+[Params]
+    subtitle = "berisi segala hal yang berbau teknologi"
+    copyright = "Ananda Zulvansyah Putra"
+    authorbox = true
+    readmore = true
+    toc = true
+    pager = true
+
+[Params.sidebar] 
+    home = "right"
+    list = "left"
+    widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+  recent_num = 5 
+
+[Params.widgets.social]
+    github = "azurasan"
+
+[menu]
+    [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+    [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 2

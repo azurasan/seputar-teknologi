@@ -1,7 +1,7 @@
 ---
 title: "Pengalaman Migrasi Ke Linux"
 date: 2021-09-24T19:12:54+07:00
-draft: true
+draft: false
 sidebar: "right"
 categories:
   - "Sistem Operasi"

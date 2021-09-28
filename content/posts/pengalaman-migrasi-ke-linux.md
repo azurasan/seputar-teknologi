@@ -56,3 +56,6 @@ Di bawah ini terdapat tampilan desktop Linux milik saya,
 ![mydesktop](/img/mydesktop9.png)
 
 **BTW i don't use [Arch](https://archlinux.org/)** 😂
+
+Sekian dan terima kasih.
+Mudah-mudahan pengalaman yang dibagikan ini dapat bermanfaat buat temen-temen

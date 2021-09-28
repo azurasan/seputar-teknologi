@@ -2,6 +2,7 @@
 title: "Kenalan dulu Yuk !"
 date: 2021-09-21T11:33:30+07:00
 draft: false
+sidebar: "right"
 ---
 
 Halo teman-teman, post pertama ini akan diisi perkenalan. Karena ada pepatah

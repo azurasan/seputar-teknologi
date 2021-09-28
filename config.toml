@@ -2,10 +2,11 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Seputar Teknologi"
 theme = "mainroad"
+dateformat = "2021-01-02" 
 
 [Author]
     name = "Ananda Zulvansyah Putra"
-    bio = "mahasiswa jurusan Teknik Informatika"
+    bio = "mahasiswa kupu-kupu"
     avatar = "img/avatar.png"
 
 [Params]
@@ -15,6 +16,7 @@ theme = "mainroad"
     readmore = true
     toc = true
     pager = true
+    dateformat = "DD-MM-YYYY"
 
 [Params.sidebar] 
     home = "right"
@@ -25,7 +27,7 @@ theme = "mainroad"
   recent_num = 5 
 
 [Params.widgets.social]
-    github = "azurasan"
+    github = "azurasan/seputar-teknologi"
 
 [menu]
     [[menu.main]]

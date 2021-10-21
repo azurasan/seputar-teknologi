@@ -3,7 +3,7 @@
 	<article class="post">
 		<header class="post__header">
 			<h1 class="post__title">{{ .Title }}</h1>
-			<p style="text-align: right; margin-top: .5rem;">Dipublish pada {{ .Params.Date.Format "2 January 2006" }}</p>
+			<p style="text-align: right; margin-top: .5rem;">Dipublikasikan pada {{ .Params.Date.Format "2 January 2006" }}</p>
 			{{- with .Params.lead }}
 			<p class="post__lead">{{ . }}</p>
 			{{- end }}

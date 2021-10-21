@@ -1,7 +1,7 @@
 ---
 title: "Tips Bertanya Error Saat Ngoding"
 date: 2021-10-21T09:45:25+07:00
-draft: true
+draft: false
 toc : false
 ---
 

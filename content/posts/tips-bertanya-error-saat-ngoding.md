@@ -3,6 +3,9 @@ title: "Tips Bertanya Error Saat Ngoding"
 date: 2021-10-21T09:45:25+07:00
 draft: false
 toc : false
+categories :
+    - "Tips dan Trik"
+    - "Programming"
 ---
 
 Pasti ada saatnya dimana saat coding entah itu mengerjakan tugas, project pribadi ataupun tugas kelompok mengalami **ERROR**. Tapi, udah coba cari solusi di Google dan hasilnya masih nihil. Tanya temen, eh malah di-*ghosting* 😢. Dan akhirnya, nanya ke forum malah di-**bully** habis-habisan. Mungkin sebagian dari kalian pernah mengalami hal tersebut ? 

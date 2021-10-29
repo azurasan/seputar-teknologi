@@ -4,9 +4,7 @@
 		<h2 class="list__title post__title">
 			<a href="{{ .RelPermalink }}" rel="bookmark"> {{ .Title }} </a>
 		</h2>
-		<div style="color: rgb(209, 17, 17)">
-			{{ .Params.Date.Format "2 January 2006" }}
-		</div>
+		<div style="color: rgb(209, 17, 17)">{{ index $.Site.Data.hari (printf "%d" .Date.Weekday) }}, {{ .Date.Day }} {{ index $.Site.Data.bulan (printf "%d" .Date.Month) }} {{ .Date.Year }} - {{ .Date.Format "15:04" }} WIB</div>
 		{{- with .Params.lead }}
 		<p class="list__lead post__lead">{{ . }}</p>
 		{{- end }} {{ with partial "post_meta.html" . -}}

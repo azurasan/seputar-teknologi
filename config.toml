@@ -2,7 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Seputar Teknologi"
 theme = "mainroad"
-dateformat = "2021-01-02" 
 
 [Author]
     name = "Ananda Zulvansyah Putra"
@@ -16,7 +15,7 @@ dateformat = "2021-01-02"
     readmore = true
     toc = true
     pager = true
-    dateformat = "DD-MM-YYYY"
+    googleAnalytics = "G-VK1WPEV38L"
 
 [Params.sidebar] 
     home = "right"

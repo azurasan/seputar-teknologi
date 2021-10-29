@@ -6,7 +6,7 @@ theme = "mainroad"
 [Author]
     name = "Ananda Zulvansyah Putra"
     bio = "mahasiswa kupu-kupu"
-    avatar = "img/avatar.png"
+    avatar = "img/ivan-avatar.png"
 
 [Params]
     subtitle = "berisi segala hal yang berbau teknologi"

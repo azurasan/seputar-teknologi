@@ -12,3 +12,5 @@ Nama Panggilan : Ivan
 Status : ~~jomblo~~ mahasiswa
 
 Github : https://github.com/azurasan
+
+Saweria : https://saweria.co/ivannn
